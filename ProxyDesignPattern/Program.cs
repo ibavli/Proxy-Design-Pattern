@@ -10,6 +10,7 @@ namespace ProxyDesignPattern
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
